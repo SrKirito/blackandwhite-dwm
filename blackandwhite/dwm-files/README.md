@@ -1,0 +1,3 @@
+# Just my dwm config.h and etc...
+
+If you want to use that, use, but give me the credits =D

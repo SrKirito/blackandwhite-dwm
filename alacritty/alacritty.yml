@@ -1,0 +1,42 @@
+# Colors (Solarized Dark)
+colors:
+  # Default colors
+  primary:
+    background: '#111111' # base03
+    foreground: '#dddddd' # base0
+
+  # Cursor colors
+  cursor:
+    text:   '#111111' # base03
+    cursor: '#dddddd' # base0
+
+  # Normal colors
+  normal:
+    black:   '#111111' # base02
+    red:     '#888888' # red
+    green:   '#989898' # green
+    yellow:  '#a8a8a8' # yellow
+    blue:    '#b7b7b7' # blue
+    magenta: '#c2c2c2' # magenta
+    cyan:    '#c9c9c9' # cyan
+    white:   '#dddddd' # base2
+
+  # Bright colors
+  bright:
+    black:   '#9a9a9a' # base01
+    red:     '#888888' # orange
+    green:   '#989898' # base01
+    yellow:  '#a8a8a8' # base00
+    blue:    '#b7b7b7' # base0
+    magenta: '#c2c2c2' # violet
+    cyan:    '#c9c9c9' # base1
+    white:   '#dddddd' # base3
+
+font:
+  normal:
+    family: "Noto Sans Mono"
+  bold:
+    family: "Noto Sans Mono"
+  italic:
+    family: "Noto Sans Mono"
+  size: 11.0
